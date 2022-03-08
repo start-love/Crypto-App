@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap');
+
+$firstColor: #191E29;
+$secondColor: #424242;
+$thirdColor: #ffa600;
+
+
+
+.search-bar {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+
+  input::placeholder {
+      color: rgba(255, 255, 255, 0.37);
+      font-weight: 300;
+      font-size: .8em;
+  }
+
+  input {
+      margin-left: 10px;
+      border-radius: 0.3em;
+      border: .1em solid rgba(255, 255, 255, 0);
+      background-color: $firstColor;
+      padding: 5px 10px 7px 10px;
+      box-shadow: 1px 1px 8px 0px rgba(0,0,0,0.1);
+  }
+
+  
+  input:focus {
+      border-radius: 0.3em;
+      border: .1em solid rgb(255, 255, 255);
+      background-color: $secondColor;
+      padding: 5px 10px 7px 10px;
+      box-shadow: inset 1px 1px 8px 0px rgba(0,0,0,0.1);
+  }
+
+  input:focus::placeholder {
+      font-weight: 100;
+      color: rgba(255, 255, 255, 0.37);
+  }
+
+  input:focus-visible {
+      outline: none;
+      color: white;
+
+  }
+}
+
+.coins-table-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 0 auto;
+  width: 100%;
+  margin-top: 50px;
+
+  .coins-table {  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 0 30px;
+    margin: 50px 50px;
+
+    .coins-list {
+      width: 300px;
+    }
+  }
+}

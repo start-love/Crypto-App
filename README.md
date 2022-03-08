@@ -1,222 +1,70 @@
-Contribution: 2021-06-10 00:00
+# Getting Started with Create React App
 
-Contribution: 2021-06-10 00:01
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Contribution: 2021-06-10 00:02
+## Available Scripts
 
-Contribution: 2021-06-10 00:03
+In the project directory, you can run:
 
-Contribution: 2021-06-10 00:04
+### `npm start`
 
-Contribution: 2021-06-10 00:05
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Contribution: 2021-06-10 00:06
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-Contribution: 2021-06-10 00:07
+### `npm test`
 
-Contribution: 2021-06-10 00:08
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Contribution: 2021-06-10 00:09
+### `npm run build`
 
-Contribution: 2021-06-10 00:10
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Contribution: 2021-06-10 00:11
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-Contribution: 2021-06-15 00:00
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-Contribution: 2021-06-15 00:01
+### `npm run eject`
 
-Contribution: 2021-06-15 00:02
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-Contribution: 2021-06-15 00:03
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Contribution: 2021-06-15 00:04
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-Contribution: 2021-06-15 00:05
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-Contribution: 2021-06-15 00:06
+## Learn More
 
-Contribution: 2021-06-15 00:07
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-Contribution: 2021-06-15 00:08
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-Contribution: 2021-06-15 00:09
+### Code Splitting
 
-Contribution: 2021-06-15 00:10
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-Contribution: 2021-06-15 00:11
+### Analyzing the Bundle Size
 
-Contribution: 2021-06-17 00:00
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-Contribution: 2021-06-17 00:01
+### Making a Progressive Web App
 
-Contribution: 2021-06-17 00:02
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-Contribution: 2021-06-17 00:03
+### Advanced Configuration
 
-Contribution: 2021-06-17 00:04
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-Contribution: 2021-06-17 00:05
+### Deployment
 
-Contribution: 2021-06-17 00:06
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-Contribution: 2021-06-18 00:00
+### `npm run build` fails to minify
 
-Contribution: 2021-06-18 00:01
-
-Contribution: 2021-06-18 00:02
-
-Contribution: 2021-06-18 00:03
-
-Contribution: 2021-06-18 00:04
-
-Contribution: 2021-06-18 00:05
-
-Contribution: 2021-06-18 00:06
-
-Contribution: 2021-06-18 00:07
-
-Contribution: 2021-06-18 00:08
-
-Contribution: 2021-06-18 00:09
-
-Contribution: 2021-06-18 00:10
-
-Contribution: 2021-06-21 00:00
-
-Contribution: 2021-06-21 00:01
-
-Contribution: 2021-06-21 00:02
-
-Contribution: 2021-06-21 00:03
-
-Contribution: 2021-06-21 00:04
-
-Contribution: 2021-06-23 00:00
-
-Contribution: 2021-06-23 00:01
-
-Contribution: 2021-06-23 00:02
-
-Contribution: 2021-06-23 00:03
-
-Contribution: 2021-06-23 00:04
-
-Contribution: 2021-06-23 00:05
-
-Contribution: 2021-06-23 00:06
-
-Contribution: 2021-06-23 00:07
-
-Contribution: 2021-06-23 00:08
-
-Contribution: 2021-06-23 00:09
-
-Contribution: 2021-06-24 00:00
-
-Contribution: 2021-06-24 00:01
-
-Contribution: 2021-06-24 00:02
-
-Contribution: 2021-06-24 00:03
-
-Contribution: 2021-06-24 00:04
-
-Contribution: 2021-06-24 00:05
-
-Contribution: 2021-06-25 00:00
-
-Contribution: 2021-06-25 00:01
-
-Contribution: 2021-06-25 00:02
-
-Contribution: 2021-06-25 00:03
-
-Contribution: 2021-06-25 00:04
-
-Contribution: 2021-06-25 00:05
-
-Contribution: 2021-06-25 00:06
-
-Contribution: 2021-06-28 00:00
-
-Contribution: 2021-06-28 00:01
-
-Contribution: 2021-06-28 00:02
-
-Contribution: 2021-06-29 00:00
-
-Contribution: 2021-06-29 00:01
-
-Contribution: 2021-06-29 00:02
-
-Contribution: 2021-06-29 00:03
-
-Contribution: 2021-06-29 00:04
-
-Contribution: 2021-06-29 00:05
-
-Contribution: 2021-06-29 00:06
-
-Contribution: 2021-06-29 00:07
-
-Contribution: 2021-07-01 00:00
-
-Contribution: 2021-07-01 00:01
-
-Contribution: 2021-07-01 00:02
-
-Contribution: 2021-07-01 00:03
-
-Contribution: 2021-07-01 00:04
-
-Contribution: 2021-07-01 00:05
-
-Contribution: 2021-07-01 00:06
-
-Contribution: 2021-07-01 00:07
-
-Contribution: 2021-07-01 00:08
-
-Contribution: 2021-07-01 00:09
-
-Contribution: 2021-07-01 00:10
-
-Contribution: 2021-07-01 00:11
-
-Contribution: 2021-07-01 00:12
-
-Contribution: 2021-07-01 00:13
-
-Contribution: 2021-07-01 00:14
-
-Contribution: 2021-07-06 00:00
-
-Contribution: 2021-07-06 00:01
-
-Contribution: 2021-07-06 00:02
-
-Contribution: 2021-07-06 00:03
-
-Contribution: 2021-07-06 00:04
-
-Contribution: 2021-07-06 00:05
-
-Contribution: 2021-07-06 00:06
-
-Contribution: 2021-07-06 00:07
-
-Contribution: 2021-07-06 00:08
-
-Contribution: 2021-07-06 00:09
-
-Contribution: 2021-07-06 00:10
-
-Contribution: 2021-07-06 00:11
-
-Contribution: 2021-07-06 00:12
-
-Contribution: 2021-07-06 00:13
-
-Contribution: 2021-07-06 00:14
-
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
